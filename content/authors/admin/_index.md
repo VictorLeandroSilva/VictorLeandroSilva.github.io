@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Naturalista fascinado pelo universo
+role: Naturalista fascinado pelo cosmos
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -120,7 +120,7 @@ social:
     link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Me chamo Victor Leandro Silva, desde criança sou um apaixonado pelo mundo natural e pela evolução. Essa curiosidade, me levou a um fascino sem igual pelos dinossauros. Como grande entusiasta dos dinossauros, sonhava em um dia poder estudar esses animais, mas, até aquele momento, uma coisa me deixava triste, como trabalhar com algo que nunca vou vê vivo? Pois bem, esse sentimento, me afastou um pouco do objetivo, até que, estudando evolução, descobri que, as aves, isso mesmo AS AVES eram os dinossauros modernos! Com isso, eu não tinha dúvidas, larguei tudo e fui fazer biologia para estudar os dinossauros que ainda existiam! Desde o começo da graduação, me dedico a estudar esse grupo fantástico (mas não só eles, apesar do amor, gosto de todos processos ecológicos e evolutivos). Durante minha graduação, mestrado e agora no doutorado, eu me dedico a estudar os organismos, sua evolução e as interações com o planeta! 
