@@ -21,11 +21,11 @@ role: Naturalista fascinado pelo universo
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Doutorando em Etnobiologia e Conservação da Natureza com interesse em padrões de diversidade
 
 # Interests to show in About widget
 interests:
@@ -123,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Me chamo Victor Leandro Silva, desde criança sou um apaixonado pelo mundo natural e pela evolução. Essa curiosidade, me levou a um fascino sem igual pelos dinossauros. Como grande entusiasta dos dinossauros, sonhava em um dia poder estudar esses animais, mas, até aquele momento, uma coisa me deixava triste, como trabalhar com algo que nunca vou vê vivo? Pois bem, esse sentimento, me afastou um pouco do objetivo, até que, estudando evolução, descobri que, as aves, isso mesmo AS AVES eram os dinossauros modernos! Com isso, eu não tinha dúvidas, larguei tudo e fui fazer biologia para estudar os dinossauros que ainda existiam! Desde o começo da graduação, me dedico a estudar esse grupo fantástico (mas não só eles, apesar do amor, gosto de todos processos ecológicos e evolutivos). Durante minha graduação, mestrado e agora no doutorado, eu me dedico a estudar os organismos, sua evolução e as interações com o planeta! 
 {style="text-align: justify;"}
