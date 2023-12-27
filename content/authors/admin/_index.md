@@ -18,6 +18,7 @@ superuser: true
 
 # Role/position/tagline
 role: Naturalista fascinado pelo universo
+
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Stanford University
@@ -28,22 +29,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ornitologia
+  - Ecologia e Evolução
+  - Conservação
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Doutorado em Etnobiologia e Conservação
+      institution: Universidade Federal Rural de Pernambuco 
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Me. Biologia Animal (Ecologia)
+      institution: Universidade Federal de Pernambuco
+      year: 2020
+    - course: Lic. em Ciências Biológicas 
+      institution: Universidade Federal Rural de Pernambuco
+      year: 2018
+    - course: Ciência da Computação (imcompleto) 
+      institution: Centro Universitário Guararapes
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
