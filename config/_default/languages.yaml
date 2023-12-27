@@ -4,6 +4,9 @@
 
 # Default language
 pt:
+  languageCode: pt 
+
+en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
