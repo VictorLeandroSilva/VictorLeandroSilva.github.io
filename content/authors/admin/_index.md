@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Victor Leandro-Silva
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Victor 
+last_name: Leandro-Silva
 
 # Status emoji
 status:
@@ -17,8 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
-
+role: Naturalista fascinado pelo universo
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Stanford University
