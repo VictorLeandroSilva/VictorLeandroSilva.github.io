@@ -76,7 +76,7 @@ skills:
       - name: Esportes (Musculação e Jiu-jitsu)
         description: ''
         percent: 80
-        icon: sports
+        icon: fighting
         icon_pack: fas
       - name: Astronomia
         description: ''
