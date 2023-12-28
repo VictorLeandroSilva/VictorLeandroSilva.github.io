@@ -7,19 +7,25 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: Postes
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: Projetos
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: Palestras e Cursos
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: Aulas
+    url: '#talks'
+    weight: 40
+  - name: Blog
+    url: '#talks'
+    weight: 40
+  - name: Publicações
     url: '#featured'
     weight: 50
-  - name: Contact
+  - name: Contacto
     url: '#contact'
     weight: 60
 
