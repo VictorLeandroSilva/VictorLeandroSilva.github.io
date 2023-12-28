@@ -54,17 +54,17 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Python e R
         description: ''
         percent: 80
-        icon: python
+        icon: r
         icon_pack: fab
-      - name: Data Science
+      - name: Analise de dados 
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Modelagem e distribuição de espécies
         description: ''
         percent: 40
         icon: database
@@ -73,17 +73,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Esportes (Musculação e Jiu-jitsu)
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 80
+        icon: sports
         icon_pack: fas
-      - name: Cats
+      - name: Astronomia
         description: ''
-        percent: 100
-        icon: cat
+        percent: 160
+        icon: moon
         icon_pack: fas
-      - name: Photography
+      - name: Fotografia de Natureza
         description: ''
         percent: 80
         icon: camera-retro
