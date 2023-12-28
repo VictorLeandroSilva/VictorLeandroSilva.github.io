@@ -11,19 +11,19 @@ main:
     url: 'posts'
     weight: 20
   - name: Projetos
-    url: '#projects'
+    url: 'projects'
     weight: 30
   - name: Palestras e Cursos
-    url: '#talks'
+    url: 'talks'
     weight: 40
   - name: Aulas
-    url: '#talks'
+    url: 'talks'
     weight: 40
   - name: Blog
-    url: '#talks'
+    url: 'talks'
     weight: 40
   - name: Publicações
-    url: '#featured'
+    url: 'featured'
     weight: 50
   - name: Contacto
     url: '#contact'
