@@ -80,7 +80,7 @@ skills:
         icon_pack: fas
       - name: Astronomia
         description: ''
-        percent: 160
+        percent: 60
         icon: moon
         icon_pack: fas
       - name: Fotografia de Natureza
