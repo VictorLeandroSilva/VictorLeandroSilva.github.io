@@ -20,7 +20,7 @@ main:
     url: 'post'
     weight: 40
   - name: Publicações
-    url: 'publicacoes'
+    url: 'publicacoes/'
     weight: 50
   - name: Contacto
     url: '#contact'
