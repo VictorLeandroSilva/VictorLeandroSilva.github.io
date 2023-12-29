@@ -1,22 +1,12 @@
 ---
-title: Publications
+title: Publicações
 cms_exclude: false
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 4
-
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
----
-
 # Em revisão
-
-  - Ornitologia
-  - Ecologia e Evolução
-  - Conservação
+sections:
+  - block: markdown
+    id: section-1
+    content:
+      subtitle: Em revisão
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+---
