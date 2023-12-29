@@ -4,8 +4,6 @@ cms_exclude: false
 
 # Em revisão
 sections:
-  - block: markdown
-    id: section-1
     content:
       subtitle: Em revisão
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
