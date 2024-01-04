@@ -1,7 +1,8 @@
 ---
-title: An example title
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+title: 
+subtitle: Publicações
+summary: 
+date: 
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
