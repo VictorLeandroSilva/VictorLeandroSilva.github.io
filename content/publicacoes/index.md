@@ -18,12 +18,14 @@ header:
 Em revisão
 
 Lenadro-Silva V, Queiroz M, & Pereira GA. Report of an intergeneric hybrid between the jandaya parakeet (Aratinga jandaya) and the Peach parakeet (Eupsittula aurea) and a possible pairing between hybrid and parent. Ornithological Research 
-<a href="https://www.researchsquare.com/article/rs-3754352/v1">{{ Preprint }}</a>
+<a href="https://www.researchsquare.com/article/rs-3754352/v1">Preprint</a>
 
-Naka LN, Leandro-Silva V & S Claramunt (in press) Avian diversity and patterns of diversification in South America. Nuttal Ornithological Society.
+Naka LN, Leandro-Silva V & Claramunt S. Avian diversity and patterns of diversification in South America. Nuttal Ornithological Society.
 
 2023
 
 <a href="https://mammalogynotes.org/ojs/index.php/mn/article/view/276">{{ .Site.Params.about }}</a>
 
 2022
+
+{style="text-align: justify;"}
