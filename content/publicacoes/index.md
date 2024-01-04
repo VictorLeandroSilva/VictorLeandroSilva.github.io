@@ -4,12 +4,12 @@ subtitle: Publicações
 summary: 
 date: 
 
-Em Revisão
+subtitle: Em revisão
 
 
-2023
+subtitle: 2023
 
-2022
+subtitle: 2022
 
 
 
