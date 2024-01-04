@@ -21,6 +21,6 @@ Naka LN, Leandro-Silva V & S Claramunt (in press) Avian diversity and patterns o
 
 2023
 
-<a href="373101937_Leucism_in_Callithrix_jacchus_Primates_Callitrichidae_and_Guerlinguetus_aestuans_Rodentia_Sciuridae_in_the_northeast_of_Brazil">{{ .Site.Params.about }}</a>
+<a href="https://mammalogynotes.org/ojs/index.php/mn/article/view/276">{{ .Site.Params.about }}</a>
 
 2022
