@@ -4,15 +4,6 @@ subtitle: Publicações
 summary: 
 date: 
 
-subtitle: Em revisão
-
-
-subtitle: 2023
-
-subtitle: 2022
-
-
-
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
@@ -23,3 +14,11 @@ header:
   caption: ""
   image: ""
 ---
+
+Em revisão
+
+iwbif fin iwnfn 
+
+2023
+
+2022
