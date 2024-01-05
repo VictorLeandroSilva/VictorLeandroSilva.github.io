@@ -17,10 +17,10 @@ header:
 
 Em revisão
 
-Lenadro-Silva V, Queiroz M, & Pereira GA. Report of an intergeneric hybrid between the jandaya parakeet (Aratinga jandaya) and the Peach parakeet (Eupsittula aurea) and a possible pairing between hybrid and parent. 
+**Lenadro-Silva V**, Queiroz M, & Pereira GA. Report of an intergeneric hybrid between the jandaya parakeet (Aratinga jandaya) and the Peach parakeet (Eupsittula aurea) and a possible pairing between hybrid and parent. 
 <a href="https://www.researchsquare.com/article/rs-3754352/v1">Preprint</a>
 {style="text-align: justify;"}
-Naka LN, Leandro-Silva V & Claramunt S. Avian diversity and patterns of diversification in South America. Nuttal Ornithological Society.
+Naka LN, **Leandro-Silva V** & Claramunt S. Avian diversity and patterns of diversification in South America. Nuttal Ornithological Society.
 {style="text-align: justify;"}
 
 2023
@@ -73,4 +73,13 @@ Leandro-Silva, V; SOUZA, J. L. ; SILVA, G. S. . Avifauna associada a ambientes �
 2015
 
 Leandro-Silva, V; Sônia-Silva, G . Registro de nova estratégia de forrageio por Egretta thula (Pelecaniformes: Ardeidae). Atualidades Ornitológicas (Impresso), v. 188, p. 25, 2015.
+{style="text-align: justify;"}
+
+Capítulos de livros
+
+PONTES, B. D. ; COUTINHO, D. P. ; Leandro-Silva, V ; ROCHA, A. S. . Avifauna da Fazenda Alvorada: Um guia introdutório à Ornitologia Regional. In: Giovanni Seabra. (Org.). Educação Ambiental: Natureza, Biodiversidade e Sociedade. 1ed.Ituiutaba - MG: Barlavento, 2017, v. 1, p. 71-80.
+{style="text-align: justify;"}
+BARROS, R. C. ; Leandro-Silva, V ; SOUZA, J. L. . Percepção dos Alunos do Ensino Fundamental Sobre Serpentes em uma Escola da Rede Publica de Pernambuco. In: Giovanni Seabra. (Org.). Educação ambiental: ecopedagogia e sustentabilidade dos recursos naturais. 1ed.: , 2017, v. 5, p. 1326-1333.
+{style="text-align: justify;"}
+Victor Leandro-Silva; Lorena Lourenço ; Goretti Sonia Silva . QUALIDADE AMBIENTAL E INTERAÇÕES TRÓFICAS ENTRE AVIFAUNA E ICTIOFAUNA. In: Arminda Saconi Messias. (Org.). TRATAMENTO DE ÁGUA: QUALIDADE, ECONOMIA E SUSTENTABILIDADE. 1ed.Recife: FASA, 2015, v. 8, p. 685-691.
 {style="text-align: justify;"}
