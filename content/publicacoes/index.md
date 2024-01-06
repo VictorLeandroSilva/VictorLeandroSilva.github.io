@@ -73,7 +73,7 @@ Souza, J. L.; Junior, J. C. A.; **Leandro-Silva, V** ; Lyra-Neves, R. M.; Telino
 **Leandro-Silva, V**; Sônia-Silva, G . Registro de nova estratégia de forrageio por Egretta thula (Pelecaniformes: Ardeidae). Atualidades Ornitológicas (Impresso), v. 188, p. 25, 2015.
 {style="text-align: justify;"}
 
-### **Capítulos de livros**
+#### **Capítulos de livros**
 
 Pontes, B. D.; Coutinho, D. P.; **Leandro-Silva, V**; Rocha, A. S. . Avifauna da Fazenda Alvorada: Um guia introdutório à Ornitologia Regional. In: Giovanni Seabra. (Org.). Educação Ambiental: Natureza, Biodiversidade e Sociedade. 1ed.Ituiutaba - MG: Barlavento, 2017, v. 1, p. 71-80.
 {style="text-align: justify;"}
