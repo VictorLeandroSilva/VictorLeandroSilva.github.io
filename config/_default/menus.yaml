@@ -11,13 +11,13 @@ main:
     url: 'project'
     weight: 30
   - name: Palestras e Cursos
-    url: 'cursos/'
+    url: 'cursos'
     weight: 40
   - name: Aulas
-    url: 'aulas/'
+    url: 'aulas'
     weight: 40
   - name: Blog
-    url: 'post/'
+    url: 'post'
     weight: 40
   - name: Publicações
     url: 'publicacoes/'
