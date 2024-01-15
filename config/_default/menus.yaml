@@ -21,11 +21,11 @@ main:
     weight: 20
   - name: Produção de Mapas no Qgis
     parent: cursos
-    url: cursos
+    url: cursos/intro_R
     weight: 20
   - name: Produção de Mapas no R
     parent: cursos
-    url: cursos
+    url: intro_R
     weight: 20
   - name: Distribuição de Espécies
     parent: cursos
