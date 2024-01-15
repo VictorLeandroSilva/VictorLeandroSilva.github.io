@@ -10,11 +10,11 @@ main:
 
   - name: Projetos
     url: 'project'
-    weight: 30
+    weight: 20
     
   - name: Palestras e Cursos
     identifier: cursos
-    weight: 40
+    weight: 30
   - name: Introdução a R
     pageRef: /cursos/intro_R
     parent: cursos
