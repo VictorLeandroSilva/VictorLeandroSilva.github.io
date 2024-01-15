@@ -1,7 +1,6 @@
 ---
 title: 
 subtitle: Introdução a programação em R
-url: 'content/cursos/intro_R/index'
 summary: 
 date: 
 

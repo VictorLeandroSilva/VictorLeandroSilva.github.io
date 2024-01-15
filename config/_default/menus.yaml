@@ -16,16 +16,16 @@ main:
     identifier: cursos
     weight: 30
   - name: Introdução a R
-    url: /cursos/intro_R
+    url: /cursos/intro_r
     parent: cursos
     weight: 30
   - name: Produção de Mapas no Qgis
     parent: cursos
-    url: cursos/intro_R
+    url: cursos/intro_r
     weight: 30
   - name: Produção de Mapas no R
     parent: cursos
-    url: intro_R
+    url: intro_r
     weight: 30
   - name: Distribuição de Espécies
     parent: cursos
