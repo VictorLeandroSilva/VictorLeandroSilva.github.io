@@ -2,7 +2,7 @@
 title: 
 subtitle: Produção de Mapas no R
 summary: 
-date: 
+
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?

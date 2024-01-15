@@ -1,8 +1,7 @@
 ---
 title: 
 subtitle: Introdução a programação em R
-summary: 
-date: 
+summary:  
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?

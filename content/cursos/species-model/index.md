@@ -2,7 +2,6 @@
 title: 
 subtitle: Modelagem da Distribuição de Espécies
 summary: 
-date: 
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?

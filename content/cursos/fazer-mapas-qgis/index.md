@@ -2,7 +2,6 @@
 title: 
 subtitle: Produção de Mapas no Qgis
 summary: 
-date: 
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
