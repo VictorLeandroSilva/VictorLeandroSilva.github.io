@@ -35,7 +35,7 @@ main:
     weight: 40
   - name: Operações Unitárias
     parent: aulas
-    url: aulas/operacoes/
+    pageRef: aulas/operacoes/
     weight: 20
   - name: Epidemiologia (Biomed)
     parent: aulas
