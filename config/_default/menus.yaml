@@ -39,7 +39,7 @@ main:
     weight: 20
   - name: Epidemiologia (Biomed)
     parent: aulas
-    url: aulas/epidemiologia/
+    url: aulas/epidemiologia
     weight: 20
   - name: Est. e Fun. Educação
     parent: aulas
