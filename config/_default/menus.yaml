@@ -35,7 +35,7 @@ main:
     weight: 40
   - name: Operações Unitárias
     parent: aulas
-    url: aulas/academic/
+    url: aulas/operacoes/
     weight: 20
   - name: Epidemiologia (Biomed)
     parent: aulas
@@ -43,11 +43,11 @@ main:
     weight: 20
   - name: Est. e Fun. Educação
     parent: aulas
-    url: aulas/academic/
+    url: aulas/educacao/
     weight: 20
   - name: Epidemiologia (Farm)
     parent: aulas
-    url: aulas/academic/
+    url: aulas/farmacoepidemio/
     weight: 20
   - name: Matemática (Biomed e Biolog)
     parent: aulas
