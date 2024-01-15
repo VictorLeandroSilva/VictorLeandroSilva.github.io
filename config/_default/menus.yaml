@@ -25,7 +25,7 @@ main:
     weight: 20
   - name: Produção de Mapas no R
     parent: cursos
-    url: icursos/fazer-mapas-r
+    url: cursos/fazer-mapas-r
     weight: 30
   - name: Distribuição de Espécies
     parent: cursos
@@ -38,31 +38,31 @@ main:
   - name: Operações Unitárias
     parent: aulas
     url: aulas/operacoes
-    weight: 40
+    weight: 10
   - name: Epidemiologia (Biomed)
     parent: aulas
-    url: aulas/epidemiologia
-    weight: 40
+    url: aulas/epidemio-biomed
+    weight: 20
   - name: Est. e Fun. Educação
     parent: aulas
-    url: aulas/educacao
-    weight: 40
+    url: aulas/est-fun-educação
+    weight: 30
   - name: Epidemiologia (Farm)
     parent: aulas
-    url: aulas/farmacoepidemio
+    url: aulas/epidemio-farm
     weight: 40
   - name: Matemática (Biomed e Biolog)
     parent: aulas
     url: aulas/academic/
-    weight: 40
+    weight: 50
   - name: Genética de Populações
     parent: aulas
     url: aulas/academic/
-    weight: 40
+    weight: 60
   - name: Zoologia Amniotas
     parent: aulas
     url: aulas/academic/
-    weight: 40
+    weight: 70
 
   - name: Blog
     url: 'post'
