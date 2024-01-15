@@ -21,15 +21,15 @@ main:
     weight: 10
   - name: Produção de Mapas no Qgis
     parent: cursos
-    url: cursos/intro-r
+    url: cursos/fazer-mapas-qgis
     weight: 20
   - name: Produção de Mapas no R
     parent: cursos
-    url: intro_r
+    url: icursos/fazer-mapas-r
     weight: 30
   - name: Distribuição de Espécies
     parent: cursos
-    url: cursos
+    url: cursos/species-model
     weight: 40
 
   - name: Disciplinas
