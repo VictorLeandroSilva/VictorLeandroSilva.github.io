@@ -1,6 +1,6 @@
 ---
 title: 
-subtitle: Palestras e Cursos
+subtitle: Introdução a programação em R
 summary: 
 date: 
 
