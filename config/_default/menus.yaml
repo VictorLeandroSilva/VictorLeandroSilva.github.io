@@ -18,7 +18,7 @@ main:
   - name: Introdução a R
     pageRef: /cursos/intro_R
     parent: cursos
-    weight: 1
+    weight: 30
   - name: Produção de Mapas no Qgis
     parent: cursos
     url: cursos/intro_R
