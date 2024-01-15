@@ -7,11 +7,14 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+
   - name: Projetos
     url: 'project'
     weight: 30
+    
   - name: Palestras e Cursos
     identifier: cursos
+    url: cursos
     weight: 40
   - name: Introdução a R
     parent: cursos
