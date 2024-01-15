@@ -11,8 +11,24 @@ main:
     url: 'project'
     weight: 30
   - name: Palestras e Cursos
-    url: 'cursos'
+    identifier: cursos
     weight: 40
+  - name: Introdução a R
+    parent: cursos
+    url: cursos
+    weight: 20
+  - name: Produção de Mapas no Qgis
+    parent: cursos
+    url: cursos
+    weight: 20
+  - name: Produção de Mapas no R
+    parent: cursos
+    url: cursos
+    weight: 20
+  - name: Distribuição de Espécies
+    parent: cursos
+    url: cursos
+    weight: 20
 
   - name: Disciplinas
     identifier: aulas
