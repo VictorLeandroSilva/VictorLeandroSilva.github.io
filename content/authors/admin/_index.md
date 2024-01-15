@@ -46,8 +46,8 @@ education:
       institution: Universidade Federal Rural de Pernambuco
       year: 2018
     - course: Ciência da Computação (imcompleto) 
-      institution: Centro Universitário Guararapes
-      year: 2018
+      institution: Universidade Católica de Pernambuco
+      year: 2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
