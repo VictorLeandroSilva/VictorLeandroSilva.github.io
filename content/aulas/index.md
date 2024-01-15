@@ -14,3 +14,15 @@ header:
   caption: ""
   image: ""
 ---
+
+#### **2024.1**
+
+#### **Operações Unitárias**
+
+<a href="https://mammalogynotes.org/ojs/index.php/mn/article/view/276"> Aula 01 - Introdução .</a>
+{style="text-align: justify;"}
+
+#### **Operações Unitárias**
+
+<a href="https://mammalogynotes.org/ojs/index.php/mn/article/view/276"> Aula 01 - Introdução .</a>
+{style="text-align: justify;"}

@@ -13,7 +13,7 @@ main:
   - name: Palestras e Cursos
     url: 'cursos'
     weight: 40
-  - name: Aulas
+  - name: Disciplinas
     url: 'aulas'
     weight: 40
   - name: Blog
