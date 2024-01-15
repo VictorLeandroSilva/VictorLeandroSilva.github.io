@@ -33,6 +33,18 @@ main:
     parent: aulas
     url: aulas/academic/
     weight: 20
+  - name: Matemática (Biomed e Biolog)
+    parent: aulas
+    url: aulas/academic/
+    weight: 20
+  - name: Genética de Populações
+    parent: aulas
+    url: aulas/academic/
+    weight: 20
+  - name: Zoologia Amniotas
+    parent: aulas
+    url: aulas/academic/
+    weight: 20
 
   - name: Blog
     url: 'post'
