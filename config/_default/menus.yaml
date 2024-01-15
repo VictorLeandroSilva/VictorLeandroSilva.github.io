@@ -18,11 +18,11 @@ main:
   - name: Introdução a R
     url: /cursos/intro_r
     parent: cursos
-    weight: 30
+    weight: 10
   - name: Produção de Mapas no Qgis
     parent: cursos
     url: cursos/intro_r
-    weight: 30
+    weight: 20
   - name: Produção de Mapas no R
     parent: cursos
     url: intro_r
@@ -30,7 +30,7 @@ main:
   - name: Distribuição de Espécies
     parent: cursos
     url: cursos
-    weight: 30
+    weight: 40
 
   - name: Disciplinas
     identifier: aulas
