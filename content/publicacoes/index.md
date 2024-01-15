@@ -24,7 +24,7 @@ Naka LN, **Leandro-Silva V** & Claramunt S. Avian diversity and patterns of dive
 
 #### **2023**
 
-**Leandro-Silva V**, Souza JL, Silva JSA, Júnior NAN, Regueira RFS, Raia YM, Aléssio F . <a href="https://mammalogynotes.org/ojs/index.php/mn/article/view/276"> Leucism in Callithrix jacchus (Primates: Callitrichidae) and Sciurus aestuans (Rodentia: Sciuridae) in the northeast of Brazil.</a> Mammalogy Notes, v. 8, p. 276, 2022.
+**Leandro-Silva V**, Souza JL, Silva JSA, Júnior NAN, Regueira RFS, Raia YM, Aléssio F . <a href="https://mammalogynotes.org/ojs/index.php/mn/article/view/276"> Leucism in Callithrix jacchus (Primates: Callitrichidae) and Sciurus aestuans (Rodentia: Sciuridae) in the northeast of Brazil.</a> Mammalogy Notes, v. 8, p. 276, 2023.
 {style="text-align: justify;"}
 #### **2022**
 
