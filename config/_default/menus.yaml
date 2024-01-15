@@ -22,15 +22,15 @@ main:
   - name: Produção de Mapas no Qgis
     parent: cursos
     url: cursos/intro_R
-    weight: 20
+    weight: 30
   - name: Produção de Mapas no R
     parent: cursos
     url: intro_R
-    weight: 20
+    weight: 30
   - name: Distribuição de Espécies
     parent: cursos
     url: cursos
-    weight: 20
+    weight: 30
 
   - name: Disciplinas
     identifier: aulas
@@ -38,41 +38,41 @@ main:
   - name: Operações Unitárias
     parent: aulas
     url: aulas/operacoes
-    weight: 20
+    weight: 40
   - name: Epidemiologia (Biomed)
     parent: aulas
     url: aulas/epidemiologia
-    weight: 20
+    weight: 40
   - name: Est. e Fun. Educação
     parent: aulas
     url: aulas/educacao
-    weight: 20
+    weight: 40
   - name: Epidemiologia (Farm)
     parent: aulas
     url: aulas/farmacoepidemio
-    weight: 20
+    weight: 40
   - name: Matemática (Biomed e Biolog)
     parent: aulas
     url: aulas/academic/
-    weight: 20
+    weight: 40
   - name: Genética de Populações
     parent: aulas
     url: aulas/academic/
-    weight: 20
+    weight: 40
   - name: Zoologia Amniotas
     parent: aulas
     url: aulas/academic/
-    weight: 20
+    weight: 40
 
   - name: Blog
     url: 'post'
-    weight: 40
+    weight: 50
   - name: Publicações
     url: 'publicacoes/'
-    weight: 50
+    weight: 60
   - name: Contacto
     url: '#contact'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
