@@ -34,7 +34,6 @@ main:
     url: aulas/academic/
     weight: 20
 
-    weight: 40
   - name: Blog
     url: 'post'
     weight: 40
