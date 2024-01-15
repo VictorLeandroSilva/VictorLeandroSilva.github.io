@@ -32,6 +32,7 @@ interests:
   - Ornitologia
   - Ecologia e Evolução
   - Conservação
+  - Divulgação Científica
 
 # Education to show in About widget
 education:
