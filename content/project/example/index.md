@@ -1,5 +1,5 @@
 ---
-title: projects
+title: Padrões de diversidade de aves da Caatinga
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
