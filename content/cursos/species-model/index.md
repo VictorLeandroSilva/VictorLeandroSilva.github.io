@@ -15,5 +15,5 @@ header:
 ---
 #### 2024
 
-#### Introdução a modelagem e distribuição de espécies usando a linguagem R - ECOA
-<a href="https://docs.google.com/presentation/d/1fqeXLILEbmUDifEuRZuPJ8TWqU7_tlEI/edit?usp=drive_link&ouid=105922777432800571653&rtpof=true&sd=true"> Slides </a> - <a href=" "> PDFs </a> - <a href=" "> Code </a>
+##### Introdução a modelagem e distribuição de espécies usando a linguagem R - ECOA
+<a href="https://drive.google.com/file/d/1fpcCor6ISpIY31JC_WTbzmSgy3wFPOiO/view?usp=drive_link"> Slides </a> - <a href=" "> PDFs </a> - <a href=" "> Code </a>
