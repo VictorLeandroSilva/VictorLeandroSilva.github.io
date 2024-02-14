@@ -2,7 +2,7 @@
 title: 
 subtitle: Epidemiologia
 summary: 
-date: 01-15-2024
+
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
