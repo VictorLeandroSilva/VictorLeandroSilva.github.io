@@ -17,7 +17,7 @@ header:
 
 #### **Em revisão**
 
-Piratelli, A; Ribeiro, B; [...]; **Leandro-Silva, V**; [...]; MacGregor-Fors, Ian. BIRD-WINDOW COLLISIONS: a data set for Latin America
+Piratelli A, Ribeiro B, [...], **Leandro-Silva V**, [...], MacGregor-Fors I. BIRD-WINDOW COLLISIONS: a data set for Latin America
 {style="text-align: justify;"}
 
 **Lenadro-Silva V**, Queiroz M, & Pereira GA. Report of an intergeneric hybrid between the jandaya parakeet (Aratinga jandaya) and the Peach parakeet (Eupsittula aurea) and a possible pairing between hybrid and parent. 
