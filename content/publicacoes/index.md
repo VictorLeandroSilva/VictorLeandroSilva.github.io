@@ -17,6 +17,9 @@ header:
 
 #### **Em revisão**
 
+Piratelli, A; Ribeiro, B; [...]; **Leandro-Silva, V**; [...]; MacGregor-Fors, Ian. BIRD-WINDOW COLLISIONS: a data set for Latin America
+{style="text-align: justify;"}
+
 **Lenadro-Silva V**, Queiroz M, & Pereira GA. Report of an intergeneric hybrid between the jandaya parakeet (Aratinga jandaya) and the Peach parakeet (Eupsittula aurea) and a possible pairing between hybrid and parent. 
 {style="text-align: justify;"}
 Naka LN, **Leandro-Silva V** & Claramunt S. Avian diversity and patterns of diversification in South America. Nuttal Ornithological Society.
