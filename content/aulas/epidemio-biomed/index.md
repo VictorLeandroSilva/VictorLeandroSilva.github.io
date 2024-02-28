@@ -22,3 +22,6 @@ header:
 
 <a href="https://drive.google.com/file/d/1e5gr-jqL32mW9Alf3atX7vQux4ER9bWv/view?usp=sharing"> Aula 01 - Introdução .</a>
 {style="text-align: justify;"}
+
+<a href="https://drive.google.com/file/d/1gUxr4J3863dtmoYAEfmu0qF_kGZfDKlX/view?usp=sharing"> Aula 02 - História, uso e conceitos .</a>
+{style="text-align: justify;"}

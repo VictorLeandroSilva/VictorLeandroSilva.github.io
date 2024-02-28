@@ -25,3 +25,6 @@ header:
 
 <a href="https://drive.google.com/file/d/1KQiBP2gQHLRuAvQsJHHqWrt8pWiktt7P/view?usp=sharing"> Aula 01 - Introdução .</a>
 {style="text-align: justify;"}
+
+<a href="https://drive.google.com/file/d/1LmEUVZoTygGfgXPdj6WdiG_NBpac8vx7/view?usp=sharing"> Aula 02 - Introdução a Operações .</a>
+{style="text-align: justify;"}
