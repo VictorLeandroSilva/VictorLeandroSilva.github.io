@@ -24,3 +24,5 @@ header:
 <a href="https://docs.google.com/document/d/1AMqZEA-PCgrzeF5y6vxIFCnmU_Drn8GV/edit?usp=sharing&ouid=105922777432800571653&rtpof=true&sd=true"> Aula 01 - Introdução .</a>
 {style="text-align: justify;"}
 
+<a href="https://drive.google.com/file/d/1xcBRcklP9H-okeTTBwxoRaElx5wlxNDX/view?usp=sharing"> Aula 02 - LDB .</a>
+{style="text-align: justify;"}
