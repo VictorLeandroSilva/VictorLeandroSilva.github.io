@@ -25,3 +25,9 @@ header:
 
 <a href="https://drive.google.com/file/d/1gUxr4J3863dtmoYAEfmu0qF_kGZfDKlX/view?usp=sharing"> Aula 02 - História, uso e conceitos .</a>
 {style="text-align: justify;"}
+
+<a href="https://drive.google.com/file/d/1NNeQWmduUYat3g9Iv-zwL08pZsDTnII4/view?usp=sharing"> Aula 03 - História natural das doenças .</a>
+{style="text-align: justify;"}
+
+<a href="https://drive.google.com/file/d/1b7r5ttTYA53jSLqmWsILnHPbkNGmiox3/view?usp=sharing"> Aula 04 - Métodos e Desenhos .</a>
+{style="text-align: justify;"}
