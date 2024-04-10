@@ -17,6 +17,8 @@ header:
 
 #### **Em revisão**
 
+Mendonça P, Carneiro LS, **Leandro-Silva V**, Aleixo A, Araripe A, Rêgo PS. The influence of the forest corridors to the north of the Andes on the diversification of the Bright-rumped Attila, Attila spadiceus (Passeriformes, Tyrannidae), during the climatic oscillations of the middle Pleistocene 
+
 Piratelli A, Ribeiro B, [...], **Leandro-Silva V**, [...], MacGregor-Fors I. BIRD-WINDOW COLLISIONS: a data set for Latin America
 {style="text-align: justify;"}
 
