@@ -34,31 +34,27 @@ main:
 
   - name: Disciplinas
     identifier: aulas
-    weight: 40
-  - name: Operações Unitárias
-    parent: aulas
-    url: aulas/operacoes
-    weight: 10
+    weight: 40 
   - name: Est. e Fun. Educação
     parent: aulas
     url: aulas/est-fun-educação
-    weight: 30
+    weight: 10
   - name: Epidemiologia (Farm)
     parent: aulas
     url: aulas/epidemio-farm
-    weight: 40
+    weight: 20
   - name: Matemática (Biomed e Biolog)
     parent: aulas
     url: aulas/academic/
-    weight: 50
+    weight: 30
   - name: Genética de Populações
     parent: aulas
     url: aulas/academic/
-    weight: 60
+    weight: 40
   - name: Zoologia Amniotas
     parent: aulas
     url: aulas/academic/
-    weight: 70
+    weight: 50
 
   - name: Blog
     url: 'post'
