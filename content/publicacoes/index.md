@@ -17,14 +17,18 @@ header:
 
 #### **Em revisão**
 
+Silva-Junior ENM, Mascaranhas-junior PB, ""Leandro-silva V"", Simões PI. Modeling the rocket-frog, Allobates olfersioides (Anura, Aromobatidae), distribution on Brazilian Northeastern Atlantic Forest: Implications for a vulnerable species conservation 
+{style="text-align: justify;"}
+
 Mendonça P, Carneiro LS, **Leandro-Silva V**, Aleixo A, Araripe A, Rêgo PS. The influence of the forest corridors to the north of the Andes on the diversification of the Bright-rumped Attila, Attila spadiceus (Passeriformes, Tyrannidae), during the climatic oscillations of the middle Pleistocene.
 {style="text-align: justify;"}
 
 Piratelli A, Ribeiro B, [...], **Leandro-Silva V**, [...], MacGregor-Fors I. BIRD-WINDOW COLLISIONS: a data set for Latin America
 {style="text-align: justify;"}
 
-**Lenadro-Silva V**, Queiroz M, & Pereira GA. Report of an intergeneric hybrid between the jandaya parakeet (Aratinga jandaya) and the Peach parakeet (Eupsittula aurea) and a possible pairing between hybrid and parent. 
+**Lenadro-Silva V**, Queiroz M, & Pereira GA. Report of an intergeneric hybrid between the jandaya parakeet (Aratinga jandaya) and the Peach parakeet (Eupsittula aurea).
 {style="text-align: justify;"}
+
 Naka LN, **Leandro-Silva V** & Claramunt S. Avian diversity and patterns of diversification in South America. Nuttal Ornithological Society.
 {style="text-align: justify;"}
 
