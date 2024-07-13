@@ -17,7 +17,7 @@ header:
 
 #### **Em revisão**
 
-Silva-Junior ENM, Mascaranhas-junior PB, ""Leandro-silva V"", Simões PI. Modeling the rocket-frog, Allobates olfersioides (Anura, Aromobatidae), distribution on Brazilian Northeastern Atlantic Forest: Implications for a vulnerable species conservation 
+Silva-Junior ENM, Mascaranhas-junior PB, **Leandro-silva V**, Simões PI. Modeling the rocket-frog, Allobates olfersioides (Anura, Aromobatidae), distribution on Brazilian Northeastern Atlantic Forest: Implications for a vulnerable species conservation 
 {style="text-align: justify;"}
 
 Mendonça P, Carneiro LS, **Leandro-Silva V**, Aleixo A, Araripe A, Rêgo PS. The influence of the forest corridors to the north of the Andes on the diversification of the Bright-rumped Attila, Attila spadiceus (Passeriformes, Tyrannidae), during the climatic oscillations of the middle Pleistocene.
