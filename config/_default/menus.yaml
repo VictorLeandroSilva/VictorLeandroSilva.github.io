@@ -39,22 +39,18 @@ main:
     parent: aulas
     url: aulas/est-fun-educação
     weight: 10
-  - name: Epidemiologia (Farm)
+  - name: Epidemiologia
     parent: aulas
     url: aulas/epidemio-farm
     weight: 20
-  - name: Matemática (Biomed e Biolog)
-    parent: aulas
-    url: aulas/academic/
-    weight: 30
   - name: Genética de Populações
     parent: aulas
     url: aulas/academic/
-    weight: 40
+    weight: 30
   - name: Zoologia Amniotas
     parent: aulas
     url: aulas/academic/
-    weight: 50
+    weight: 40
 
   - name: Blog
     url: 'post'
