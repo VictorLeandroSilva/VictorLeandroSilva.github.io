@@ -20,6 +20,9 @@ header:
 **Leandro-silva V**, Gonçalvez-Souza T, Naka LN. Ecological and morphological traits determine community-wide responses of birds to climate change in a tropical dry forest 
 {style="text-align: justify;"}
 
+Gonçalvez-Souza T, Vancine, MH, [...], **Leandro-silva V**, [...], Chase, JM. LandFrag: A dataset to investigate the effects of habitat loss and fragmentation on biodiversity in forest fragments
+{style="text-align: justify;"}
+
 Silva-Junior ENM, Mascaranhas-junior PB, **Leandro-silva V**, Simões PI. Modeling the rocket-frog, Allobates olfersioides (Anura, Aromobatidae), distribution on Brazilian Northeastern Atlantic Forest: Implications for a vulnerable species conservation 
 {style="text-align: justify;"}
 
