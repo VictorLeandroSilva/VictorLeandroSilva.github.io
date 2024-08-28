@@ -52,8 +52,8 @@ main:
     url: aulas/academic/
     weight: 40
 
-  - name: Blog
-    url: 'post'
+  - name: Blog Evoluindo
+    url: 'https://evoluindo-victorleandro.blogspot.com/'
     weight: 50
   - name: Publicações
     url: 'publicacoes/'
