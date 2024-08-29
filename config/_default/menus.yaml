@@ -51,7 +51,6 @@ main:
     parent: aulas
     url: aulas/academic/
     weight: 40
-
   - name: Blog Evoluindo
     url: 'https://evoluindo-victorleandro.blogspot.com/'
     weight: 50
